@@ -1,5 +1,5 @@
-# Parkinson-Kaggle
-# Projet_kaggle “Parkinson's Disease Progression Prediction”
+
+# Projet_kaggle :  “Parkinson's Disease Progression Prediction”
 
 # Contexte : 
 Dans notre étude, nous nous intéressons aux patients diagnostiqués avec la maladie de Parkinson et qui reçoivent soit une CSF-MS semi-annuelle, soit une CSF-MS annuelle en même temps que le MDS-UPDRS.  La CSF-MS mesure l'abondance des protéines et des peptides chez le patient - dans le cas présent, 227 protéines et 971 peptides - tandis que le MDS-UPDRS  est un score de pronostic composé de quatre valeurs.
