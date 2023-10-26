@@ -14,13 +14,13 @@ Install [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 Clone the repository
 
 ```
-git clone https://github.com/{name}.git
+git clone https://github.com/LouizaG/Parkinson-Kaggle.git
 ```
 
 Move to the new directory
 
 ```
-cd Project_kaggle
+cd Parkinson-Kaggle
 ```
 
 Create the Project_Kaggle conda environment:
