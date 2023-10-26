@@ -1,5 +1,4 @@
-
-# Projet_kaggle :  “Parkinson's Disease Progression Prediction”
+# Projet_kaggle “Parkinson's Disease Progression Prediction”
 
 # Contexte : 
 Dans notre étude, nous nous intéressons aux patients diagnostiqués avec la maladie de Parkinson et qui reçoivent soit une CSF-MS semi-annuelle, soit une CSF-MS annuelle en même temps que le MDS-UPDRS.  La CSF-MS mesure l'abondance des protéines et des peptides chez le patient - dans le cas présent, 227 protéines et 971 peptides - tandis que le MDS-UPDRS  est un score de pronostic composé de quatre valeurs.
@@ -15,19 +14,19 @@ Install [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 Clone the repository
 
 ```
-git clone https://github.com/LouizaG/Parkinson-Kaggle.git
+git clone https://github.com/{name}.git
 ```
 
 Move to the new directory
 
 ```
-cd Parkinson-kaggle
+cd Project_kaggle
 ```
 
 Create the Project_Kaggle conda environment:
 
 ```
-conda create --name Project_kaggle_env
+conda env create -f Project_kaggle_env.yml
 ```
 
 Load the `Project_Kaggle` conda environment:
@@ -42,18 +41,6 @@ To deactivate an conda active environment, use
 conda deactivate
 ```
 
-Add python in yout environment:
-
-```
-conda install python
-```
-
-Add jupyter in your environment:
-
-```
-conda install jupyter
-```
-
 Run jupyter notebook
 
 ```
@@ -65,3 +52,6 @@ jupyter notebook
 2) Run the file Model_LSTM_CNN.ipynb to have all the results
 
 3) Run other files 
+
+## Authors
+Louiza Galou / Aurélien Desvilles Quentin Capdet
